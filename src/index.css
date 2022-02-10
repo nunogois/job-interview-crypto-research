@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#app {
+  height: 100%;
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+select {
+  background-color: #1a1a1a;
+  color: #fff;
+  border: 1px solid #fff;
+  min-width: 100px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.chart {
+  width: 100%;
+}
