@@ -1,4 +1,4 @@
-# delphi-crypto
+# crypto-interview
 
 ## Get Started
 
